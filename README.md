@@ -5,4 +5,4 @@ interested in:
 experience:
 - computer science 101
 
-"~am baby~"
+am baby
